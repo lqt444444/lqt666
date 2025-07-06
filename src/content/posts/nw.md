@@ -1,14 +1,10 @@
 ---
+title: 面的 Markdown 模板
 published: 2025-07-07
 description: 一个可复用的 Markdown 模板，用于创建结构化的博客文章或技术文档，支持多种高级功能。
-tags:
-  - Markdown
-  - 博客
-  - 文档
-  - 示例
+tags: [Example, 文档]
 category: 模板
 draft: true
-title: 全面的 Markdown 模板
 ---
 
 
