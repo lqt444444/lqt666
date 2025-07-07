@@ -1,71 +1,25 @@
 {
   "main": {
-    "id": "cc53269af7aff926",
+    "id": "9e2c84fb3247a2e0",
     "type": "split",
     "children": [
       {
-        "id": "7c17bdd4edeaaba9",
+        "id": "e267a4a8b7aa8c3d",
         "type": "tabs",
-        "dimension": 84.2005076142132,
         "children": [
           {
-            "id": "ebc8e89f30d6b3f3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            },
-            "group": "d9b3a6ee61db1116"
-          },
-          {
-            "id": "e683a22f07280177",
+            "id": "550201bca887eeb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MD.md",
+                "file": "about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MD"
+              "title": "about"
             }
-          },
-          {
-            "id": "0d55d90e1c1aa815",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "e66f6ca143a245ce",
-        "type": "tabs",
-        "dimension": 15.7994923857868,
-        "children": [
-          {
-            "id": "27b236b4c1150af9",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "模板/MD 拓展示例.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "MD 拓展示例 的大纲"
-            },
-            "group": "d9b3a6ee61db1116"
           }
         ]
       }
@@ -73,33 +27,33 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0efdd1bfae394ac6",
+    "id": "a081eac18807285a",
     "type": "split",
     "children": [
       {
-        "id": "667c8033656b7c7b",
+        "id": "b15cd85121b44c52",
         "type": "tabs",
         "children": [
           {
-            "id": "f4c9083efcde1725",
+            "id": "8ee40f18540dd436",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
             }
           },
           {
-            "id": "ed413d101daeb7ea",
+            "id": "5dabb7388fd9a49f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Customization",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +65,7 @@
             }
           },
           {
-            "id": "4b908531d8709ddc",
+            "id": "0872c06ebd816c3c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -127,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "bbf860f5307fc95f",
+    "id": "fd5cacd8cf2013d8",
     "type": "split",
     "children": [
       {
-        "id": "3b3ec2bbb8890788",
+        "id": "093108d906a322e0",
         "type": "tabs",
         "children": [
           {
-            "id": "4bdb764aa62fdfae",
+            "id": "27a0a7a0e5371277",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "全面的 Markdown 模板.md",
+                "file": "about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "全面的 Markdown 模板 的反向链接列表"
+              "title": "about 的反向链接列表"
             }
           },
           {
-            "id": "bed5e56b585e5cd8",
+            "id": "82221b3995aa3d3a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "全面的 Markdown 模板.md",
+                "file": "about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "全面的 Markdown 模板 的出链列表"
+              "title": "about 的出链列表"
             }
           },
           {
-            "id": "c8c36760fbfd9550",
+            "id": "ec6866381f6a5773",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -183,18 +137,18 @@
             }
           },
           {
-            "id": "3ccd96f58dcba8e0",
+            "id": "f297b4dee82a5f0b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "全面的 Markdown 模板.md",
+                "file": "about.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "全面的 Markdown 模板 的大纲"
+              "title": "about 的大纲"
             }
           }
         ]
@@ -214,25 +168,6 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0d55d90e1c1aa815",
-  "lastOpenFiles": [
-    "MD.md",
-    "模板/MD 拓展示例.md",
-    "guide/cover.jpeg",
-    "guide/index.md",
-    "local-doc.html.md",
-    "模板/代码显示.md",
-    "模板/夜间模式.md",
-    "模板/markdown.md",
-    "模板/video视频卡片.md",
-    "未命名",
-    "模板/nw.md",
-    "全面的 Markdown 模板.md",
-    "~$的 Markdown 模板.md",
-    "2022-07-01.md",
-    "模板",
-    "未命名.md",
-    "未命名 1.canvas",
-    "未命名.canvas"
-  ]
+  "active": "550201bca887eeb2",
+  "lastOpenFiles": []
 }

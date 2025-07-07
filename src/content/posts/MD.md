@@ -1,14 +1,17 @@
 ---
-title: 面的 Markdown 模板
+title: 本博客的 Markdown 模板
 published: 2025-07-07
-description: 一个可复用的 Markdown 模板，用于创建结构化的博客文章或技术文档，支持多种高级功能。
-tags: [Example, 文档]
+description: 一个可复用的 Markdown 模板
+tags:
+  - Example
+  - 文档
+  - 范例
 category: 模板
 draft: true
 ---
 
 
-这是一个用于创建结构化博客文章、技术文档或笔记的可复用 Markdown 模板。它包括 Frontmatter 元数据、Expressive Code 增强代码块、提示框、GitHub 仓库卡片、嵌入视频、表格、列表和数学公式等功能。
+这是一个用于创建结构化博客文章、技术文档或笔记的可复用 Markdown 模板。对原本英文文章进行了翻译，用于我将来参考
 
 ## 引言
 

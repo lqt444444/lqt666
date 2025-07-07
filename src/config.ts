@@ -8,8 +8,8 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "Fuwari",
-	subtitle: "Demo Site",
+	title: "Li-QiuTing",
+	subtitle: "QiuTing",
 	lang: "zh_CN", // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko', 'es', 'th' // 语言选项：英语、简体中文、繁体中文、日语、韩语、西班牙语、泰语
 	themeColor: {
 		hue: 129, // 主题颜色的默认色调，从 0 到 360。例如：红色：0，青色：200，蓝绿色：250，粉红色：345
@@ -17,7 +17,7 @@ export const siteConfig: SiteConfig = {
 	},
 	banner: {
 		enable: false,
-		src: "assets/images/demo-banner.png", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
+		src: "assets/images/demo-banner.jpg", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
 		position: "center", // 相当于 object-position，仅支持 'top', 'center', 'bottom'，默认为 'center'
 		credit: {
 			enable: false, // 显示横幅图片的版权信息
@@ -45,8 +45,8 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Archive,
 		LinkPreset.About,
 		{
-			name: "GitHub",
-			url: "https://github.com/saicaca/fuwari", // 内部链接不应包含基本路径，因为它会自动添加
+			name: "Telegram",
+			url: "https://t.me/YuChen_5", // 内部链接不应包含基本路径，因为它会自动添加
 			external: true, // 显示外部链接图标并在新标签页中打开
 		},
 	],
@@ -59,10 +59,10 @@ export const profileConfig: ProfileConfig = {
 	links: [
 		{
 			name: "Twitter",
-			icon: "fa6-brands:twitter", // 访问 https://icones.js.org/ 获取图标代码
+			icon: "ic:baseline-telegram", // 访问 https://icones.js.org/ 获取图标代码
 			// 如果图标集尚未包含，您需要安装相应的图标集
 			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://twitter.com",
+			url: "https://t.me/YuChen_5",
 		},
 		{
 			name: "Steam",

@@ -1,9 +1,12 @@
 ---
-title: Markdown Example
+title: Markdown文字示例
 published: 2023-10-01
 description: A simple example of a Markdown blog post.
-tags: [Markdown, Blogging, Demo]
-category: Examples
+tags:
+  - Markdown
+  - 博客
+  - 项目
+category: Fuwari引导文章
 draft: false
 ---
 
